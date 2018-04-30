@@ -77,7 +77,7 @@ module.exports = __webpack_require__(1);
 "use strict";
 
 
-console.log("HELLO WORLD");
+console.log('HELLO WORLD');
 
 /***/ })
 /******/ ]);
